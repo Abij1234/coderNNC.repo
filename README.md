@@ -5,4 +5,4 @@ My apt repository for termux || Teacher : suman@BHUTUU
 hackers-framework
 
 # Usage
-apt install <package name>
+apt install package_name
