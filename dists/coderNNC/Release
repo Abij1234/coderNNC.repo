@@ -1,0 +1,26 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: coderNNC repository
+Suite: coderNNC
+Date: Mon, 14 Aug 2023 14:14:36 UTC
+MD5Sum:
+ c0eb327d2345031c65d415196994f04c 626 main/binary-all/Packages
+ c1031df1138ad11557e71610fe4fba39 512 main/binary-all/Packages.xz
+ a07f157bc29029360847547c14a0f400 86070 main/Contents-all
+ c2e52bf11449f87aa8300e61b6b57015 4560 main/Contents-all.xz
+SHA1:
+ 86581c9023c3f0ba1b2408fec972c7acd474c65f 626 main/binary-all/Packages
+ 236378f4362ae50c792fea1b4d95db83ac24061c 512 main/binary-all/Packages.xz
+ a782b81bc6e114d4c0ff40deb52cbb5d934d5882 86070 main/Contents-all
+ 2085d03be94bbb78b1cbad67ef9bfc2ae3dbe7c4 4560 main/Contents-all.xz
+SHA256:
+ c3fa3c278a9e07662d2a6a25bd7ff19d46bc9b50d311f30c7a77bf37fa51c7ee 626 main/binary-all/Packages
+ 1366c5dfaa16cb2ee8a65253313287655aba28a2270d87ade51bdbc2dd0c937b 512 main/binary-all/Packages.xz
+ 8010b44b83198f003fd10f2b62e0c955ae77b591c047944b269f3b798388fe57 86070 main/Contents-all
+ e82298f9f9afb690806e145b0e7631bb7e30bd0621f2d6925d781b927fa38e0c 4560 main/Contents-all.xz
+SHA512:
+ 4721b7013c722e99a1cc9b66305913934587ea279ac0c58ca67bcd2a4ad95ecf9a8bc2520a6bf42d1794989365594fabb391323063317ea31c83e9655121111b 626 main/binary-all/Packages
+ eaa8e4dd270c9006cb24ee247c081c1e34e28f6dff2eac2eaa8b72e29c01b7a015d29507fc419ab49bbded3cf530bffcc04e5df7f8d5eddc2243f7d96e7e26c1 512 main/binary-all/Packages.xz
+ 2b7cb2f88fdd3e0086db6ffdafc1da92a1ead9c9675c3d289d464869d2b85c152ae491e38e9099556a9b3803a22ab6242d29c3298dcf79a1bfc8d195a9523228 86070 main/Contents-all
+ 4706811c2da170e29648f0fe039e971df91458c7d5383d684ded873c1c885f65286207fbd79172a71003cd554df2a7a4d5666ae9e4751b1b3d6848af2c968c0b 4560 main/Contents-all.xz

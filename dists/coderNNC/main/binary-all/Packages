@@ -1,0 +1,15 @@
+Package: hackers-framework
+Architecture: all
+Version: 1.0
+Installed-Size: 50141
+Maintainer: abijith@NNC
+Homepage: https://github.com/Abij1234/hackers_framework
+Depends: pv, sox, python, python-pip, cloudflared 
+Description: framework for hackers...
+Filename: dists/coderNNC/main/binary-all/hackers-framework.deb
+Size: 11036828
+MD5Sum: 89bd9936938986faee261f49e93c58a5
+SHA1: fd0e78c8f94583a36c5cbf5ea4111e518279b6ff
+SHA256: 1edee45d638ea36e6bdcb3e7b865eb892339ec8cd6cc8040744af4411d1fda13
+SHA512: 7519486b9d55cfe7a6dcd5e08f133b934a26722e60b61b6f1239efd514f836411d79e6bf03b282bed7807274ff9325ed2549822df474edcd058e277d614aa300
+
