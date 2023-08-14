@@ -1,14 +1,5 @@
-# coderNNC.repo
-My apt repository for termux || Teacher : suman@BHUTUU
-
-# banner
-
-
-▄▀█ █▀█ ▀█▀   █▀█ █▀▀ █▀█ █▀█   █▀▀ █▀█ █▀█
-█▀█ █▀▀ ░█░   █▀▄ ██▄ █▀▀ █▄█   █▀░ █▄█ █▀▄
-
-▀█▀ █▀▀ █▀█ █▀▄▀█ █░█ ▀▄▀
-░█░ ██▄ █▀▄ █░▀░█ █▄█ █░█
+# coderNNC
+My apt repository for Termux | Teached by : suman@BHUTUU
 
 # packages
 hackers-framework
