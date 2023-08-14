@@ -1,2 +1,8 @@
 # coderNNC.repo
-Apt packages of coder NNC || Teacher : suman@BHUTUU
+My apt repository for termux || Teacher : suman@BHUTUU
+
+# packages
+hackers-framework
+
+# Usage
+apt install <package name>
